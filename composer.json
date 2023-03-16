@@ -1,5 +1,5 @@
 {
-    "name": "ambimax/composer-package-globalsys-edcsdk",
+    "name": "marketingthom/composer-package-globalsys-edcsdk",
     "description": "A PHP SDK to communicate with the Globalsys EDC API.",
     "version": "1.2.0",
     "type": "library",
